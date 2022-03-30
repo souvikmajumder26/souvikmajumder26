@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" alt="GIF" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/master/python-2.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/python-2.gif?raw=true" width="500" height="320" />
 
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/">
   <img align="left" alt="Souvik's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
