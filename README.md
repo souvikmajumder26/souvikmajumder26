@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 
-I'm [Souvik Majumder]<!--(my website link)-->, a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Souvik Majumder<!--[Souvik Majumder](my website link)-->, a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
