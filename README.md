@@ -20,6 +20,7 @@ Hi, I'm Souvik Majumder<!--[Souvik Majumder](my website link)-->, a passionate s
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 ### Find me on the web:
+<p>
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/">
   <img align="left" alt="Souvik's LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -27,8 +28,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <a href="https://orcid.org/0000-0002-2382-7401">
   <img align="left" alt="Souvik's ORCID" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
-
-<br />
+</p>
 
 **languages and tools:**  
 
