@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/">
-  <img align="left" alt="Souvik's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<br />
-
 Hi, I'm Souvik Majumder<!--[Souvik Majumder](my website link)-->, a passionate self-taught full stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+
+### Find me on the web:
+<a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/">
+  <img align="left" alt="Souvik's LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://orcid.org/0000-0002-2382-7401">
+  <img align="left" alt="Souvik's ORCID" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
+</a>
 
 **languages and tools:**  
 
