@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 <!-- Using vector logos from https://www.vectorlogo.zone/ -->
 <!-- img.shields.io -->
 
-<img align="left" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=black" alt="Python logo" title="Python" height="25" />
-&nbsp
-<img align="left" src="https://img.shields.io/badge/C++-orange?style=flat-square&logo=cplusplus&logoColor=black" alt="Python logo" title="Python" height="25" />
+<img align="left" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=black" alt="Python logo" title="Python" />
+<img align="left" src="https://img.shields.io/badge/C++-purple?style=flat-square&logo=cplusplus&logoColor=black" alt="C++ logo" title="C++" />
+<img align="left" src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html&logoColor=black" alt="C++ logo" title="C++" />
 
 <img width="100px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
 <img width="100px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
