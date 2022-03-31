@@ -81,7 +81,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 -->
 <!-- TODO-IST:END -->
 
-
+<div>
 ## GitHub Stats
 
 <a href="https://github.com/souvikmajumder26/github-readme-stats">
@@ -90,8 +90,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <a href="https://github.com/souvikmajumder26/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=buefy&hide_border=true" />
 </a>
-
-<br>
+</div>
 
 ## Top Repositories (My Projects)
 
