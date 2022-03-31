@@ -50,7 +50,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <img align="center" alt="GIF" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/python-2.gif?raw=true" width=2000px />
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
