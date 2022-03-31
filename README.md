@@ -78,7 +78,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## GitHub Stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&theme=react" alt="souvikmajumder26" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&theme=buefy" alt="souvikmajumder26" /> </p>
+
+## Top Repositories
+
+<p> <img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&repo=Any-Face-Clustering&show_icons=true&theme=buefy" alt="souvikmajumder26" /> </p>
 
 
 
