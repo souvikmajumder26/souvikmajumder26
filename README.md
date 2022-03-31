@@ -22,11 +22,15 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <h3>Find me on the web:</h3>
 
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/">
-  <img alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://orcid.org/0000-0002-2382-7401">
-  <img alt="Souvik's ORCID" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
+  <img align="left" alt="Souvik's ORCID" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
+</a>
+
+<a href="https://leetcode.com/Souvik_Majumder/">
+  <img align="left" alt="Souvik's LeetCode" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" />
 </a>
   
 <br />
