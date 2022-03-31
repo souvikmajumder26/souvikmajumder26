@@ -21,7 +21,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <h3>Find me on the web:</h3>
 <span>
-  <span> LinkedIn </span>
+  <span style="font-weight:bold"> LinkedIn </span>
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/">
   <img align="left" alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
