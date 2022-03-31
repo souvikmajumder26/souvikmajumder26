@@ -81,16 +81,16 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 -->
 <!-- TODO-IST:END -->
 
-<div>
+
 ## GitHub Stats
 
+| <a href="https://github.com/souvikmajumder26/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" />
+</a> |
 <a href="https://github.com/souvikmajumder26/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Souvik's github stats" />
-</a>
-<a href="https://github.com/souvikmajumder26/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=buefy&hide_border=true" />
-</a>
-</div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true" />
+</a> |
+
 
 ## Top Repositories (My Projects)
 
@@ -101,4 +101,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" />
 </a>
 
-<br>
+<br />
