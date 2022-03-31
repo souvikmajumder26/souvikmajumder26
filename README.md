@@ -21,11 +21,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... -->
 
-<br>
-
 <img align="right" width=50% src="https://user-images.githubusercontent.com/86871718/161144780-7411dd95-2bed-4519-a663-1959dc926f89.gif" />
 
-## Find me on the web:
+### Find me on the web:
+------------------------
 
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/" target="_blank">
   <img align="left" alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
