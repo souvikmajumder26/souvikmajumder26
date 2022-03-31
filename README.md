@@ -95,11 +95,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Top Repositories (My Projects)
 
-<a href="https://github.com/souvikmajumder26/Any-Face-Clustering">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" />
-</a>
-<a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" />
-</a>
+|<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost"><img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" /></a>|
+| ------------- | ------------- |
 
 <br />
