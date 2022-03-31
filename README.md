@@ -20,7 +20,7 @@ Hi, I'm Souvik Majumder<!--[Souvik Majumder](my website link)-->, a passionate s
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <h3>Find me on the web:</h3>
-
+<br clear=”left” />
 **LinkedIn -**
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/">
   <img align="left" alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
