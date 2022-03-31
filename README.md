@@ -85,16 +85,16 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## GitHub Stats
 
 <a href="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift">
-<img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift" alt="souvikmajumder26" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift" alt="souvikmajumder26" />
 </a>
 
 ## Top Repositories (My Projects)
 
 <a href="https://github.com/souvikmajumder26/Any-Face-Clustering">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" />
+  <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" />
 </a>
 
 <a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" />
+  <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" />
 </a>
 
