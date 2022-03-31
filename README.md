@@ -84,7 +84,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## GitHub Stats
 
-|<a href="https://github.com/souvikmajumder26/github-readme-stats"><img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github.com/souvikmajumder26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true" /></a>|
+|<a href="https://github.com/souvikmajumder26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github.com/souvikmajumder26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true" /></a>|
 | ------------- | ------------- |
 
 
