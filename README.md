@@ -82,7 +82,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## GitHub Stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&theme=gotham" alt="souvikmajumder26" /> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&theme=swift" alt="souvikmajumder26" /> </p>
 
 ## Top Repositories (My Projects)
 
@@ -91,7 +91,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </a>
 
 <a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=gotham" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" />
 </a>
 
 
