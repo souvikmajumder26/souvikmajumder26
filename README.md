@@ -19,7 +19,9 @@ Hi, I'm Souvik Majumder<!--[Souvik Majumder](my website link)-->, a passionate <
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<img align="right" alt="GIF" style="border-radius:50%" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/python-2.gif?raw=true" width=500px />
+<kbd>
+<img align="right" alt="GIF" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/python-2.gif?raw=true" width=500px />
+</kbd>
 
 ## Find me on the web:
 
