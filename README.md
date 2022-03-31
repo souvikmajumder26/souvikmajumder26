@@ -51,12 +51,11 @@ Here are some ideas to get you started:
 ## 👨‍💻 Languages and Frameworks:
 
 <!-- Using vector logos from https://www.vectorlogo.zone/ -->
-<img width="1000px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
 
-<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
-<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" />
-<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
+<img width="100px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
+<img width="100px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
+<img width="100px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" />
+<img width="100px" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
 <img align="left" width="100px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" />
 <img align="left" width="100px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" />
 <img align="left" width="100px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
