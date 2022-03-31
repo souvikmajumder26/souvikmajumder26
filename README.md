@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 
 <br />
 
-----
 
 ## Languages and Frameworks:
 
@@ -56,7 +55,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-----
 
 ## This week I spent my time on:
 <!--START_SECTION:waka-->
@@ -74,13 +72,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 -->
 
 
-## GitHub Stats
+## GitHub Stats:
 
 |<a href="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true" /></a>|
 | ------------- | ------------- |
 
 
-## Top Repositories (My Projects)
+## Top Repositories (My Projects):
 
 |<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" /></a>|
 | ------------- | ------------- |
