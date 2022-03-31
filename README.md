@@ -82,7 +82,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## Top Repositories
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&repo=Any-Face-Clustering&theme=buefy" alt="souvikmajumder26" /> </p>
+<a href="https://github.com/souvikmajumder26/Any-Face-Clustering">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=buefy" />
+</a>
 
 
 
