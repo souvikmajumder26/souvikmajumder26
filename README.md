@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="30px">  Hi there, I'm Souvik Majumder... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="30px">
+## <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="30px">  Hi there, I'm Souvik Majumder... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="30px">
 
 I'm a passionate Software Engineer from India. My passion for software lies in leveraging Digital Technologies like Data Science, Artificial Intelligence, Cloud Computing to make radical ideas come true creating value for business and society. I take great care in the things I build.
 
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <img align="right" width=50% src="https://user-images.githubusercontent.com/86871718/161144780-7411dd95-2bed-4519-a663-1959dc926f89.gif" />
 
-## Find me on the web:
+### Find me on the web:
 
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/" target="_blank">
   <img align="left" alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ----
 
-## Languages and Frameworks:
+### Languages and Frameworks:
 
 <img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
