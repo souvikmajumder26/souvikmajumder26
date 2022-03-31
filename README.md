@@ -35,7 +35,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="left" alt="Souvik's ORCID" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
   
-<br>
+<br />
 
 ## Languages and Frameworks:
 
@@ -91,10 +91,10 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## Top Repositories (My Projects)
 
 <a href="https://github.com/souvikmajumder26/Any-Face-Clustering">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=buefy" />
 </a>
-
 <a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=buefy" />
 </a>
 
+<br />
