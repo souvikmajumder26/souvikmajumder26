@@ -21,7 +21,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <img align="right" alt="GIF" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/python-2.gif?raw=true" width=500px />
 
-## Find me on the web:
+### Find me on the web:
 
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/" target="_blank">
   <img align="left" alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -37,7 +37,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 <br>
 
-## Languages and Frameworks:
+### Languages and Frameworks:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -76,16 +76,19 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-## GitHub Stats
+### GitHub Stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&theme=buefy" alt="souvikmajumder26" /> </p>
 
-## Top Repositories
+### Top Repositories
 
 <a href="https://github.com/souvikmajumder26/Any-Face-Clustering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=buefy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=buefy" />
 </a>
 
+<a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" />
+</a>
 
 
 
