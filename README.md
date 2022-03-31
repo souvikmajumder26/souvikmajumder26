@@ -91,7 +91,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=buefy&hide_border=true" />
 </a>
 
-<br />
+<br>
 
 ## Top Repositories (My Projects)
 
@@ -102,4 +102,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" />
 </a>
 
-<br />
+<br>
