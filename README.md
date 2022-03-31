@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <img align="right" width=500px src="https://user-images.githubusercontent.com/86871718/161144780-7411dd95-2bed-4519-a663-1959dc926f89.gif" />
 
-## 📫 Find me on the web:
+## 🌎 Find me on the web:
 
 <img align="left" width="1px" src="https://user-images.githubusercontent.com/86871718/161148942-53861b51-a84c-4b93-990a-f75c2a3d5948.svg" />
 
