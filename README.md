@@ -19,7 +19,7 @@ Hi, I'm Souvik Majumder<!--[Souvik Majumder](my website link)-->, a passionate s
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-<h3>Find me on the web:</h3>
+### Find me on the web:
 
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/" target="_blank">
   <img align="left" alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -35,7 +35,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 <br>
 
-<h3>Languages and Frameworks:</h3>
+### Languages and Frameworks:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
