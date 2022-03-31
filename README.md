@@ -1,26 +1,25 @@
 # <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="30px">  Hi there, I'm Souvik Majumder... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="30px">
 
-<!--
-**souvikmajumder26/souvikmajumder26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Gmail_icon_(2020)](https://user-images.githubusercontent.com/86871718/161143733-ac8654cc-faa8-404b-9774-7fc06ea3028e.svg)
-
 Hi, I'm a passionate Software Engineer from India. My passion for software lies in leveraging Digital Technologies like Data Science, Artificial Intelligence, Cloud Computing to make radical ideas come true creating value for business and society. I take great care in the things I build.
 
 <!--
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 -->
+
+<!--
+**souvikmajumder26/souvikmajumder26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+
+- 🔭 I’m currently Interning as a Software Engineer
+- 🌱 I’m currently learning Data Science, Cloud Computing(Azure, AWS), Web3
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ... -->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have loved Painting since childhood so much so that I wanted to be a full-time Painter at a point of time
 
 ## Find me on the web:
 
