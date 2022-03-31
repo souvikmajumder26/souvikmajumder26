@@ -33,7 +33,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="left" alt="Souvik's LeetCode" width="28px" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/LeetCode_logo_white.svg" />
 </a>
   
-<br />
+<br>
 
 <h3>Languages and Frameworks:</h3>
 
