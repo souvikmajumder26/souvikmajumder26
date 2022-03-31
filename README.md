@@ -51,7 +51,6 @@ Here are some ideas to get you started:
 ## 👨‍💻 Languages and Frameworks:
 
 <!-- Using vector logos from https://www.vectorlogo.zone/ -->
-![image](https://user-images.githubusercontent.com/86871718/161156460-83bd304f-8d39-46f6-baf3-6c83ee75ecc7.png)
 
 <img align="left" width="100px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
 <img align="left" width="100px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
