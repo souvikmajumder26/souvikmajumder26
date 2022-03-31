@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 <a href="https://orcid.org/0000-0002-2382-7401" target="_blank">
   <img align="left" alt="Souvik's ORCID" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
-  
+
+----
+
 <br />
 
 ## Languages and Frameworks:
@@ -54,7 +56,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+----
 
 ## This week I spent my time on:
 <!--START_SECTION:waka-->
