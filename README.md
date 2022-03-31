@@ -21,16 +21,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have loved Painting since childhood so much so that I wanted to be a full-time Painter at a point of time
 
+![python-2](https://user-images.githubusercontent.com/86871718/161144780-7411dd95-2bed-4519-a663-1959dc926f89.gif)
+
 ## Find me on the web:
 
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/" target="_blank">
   <img align="left" alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <a href="https://leetcode.com/Souvik_Majumder/" target="_blank">
   <img align="left" alt="Souvik's LeetCode" width="24px" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/LeetCode_logo_white.svg" />
 </a>
-
 <a href="https://orcid.org/0000-0002-2382-7401" target="_blank">
   <img align="left" alt="Souvik's ORCID" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
