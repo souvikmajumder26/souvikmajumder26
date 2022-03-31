@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Gmail_icon_(2020)](https://user-images.githubusercontent.com/86871718/161143733-ac8654cc-faa8-404b-9774-7fc06ea3028e.svg)
 
 Hi, I'm a passionate Software Engineer from India. My passion for software lies in leveraging Digital Technologies like Data Science, Artificial Intelligence, Cloud Computing to make radical ideas come true creating value for business and society. I take great care in the things I build.
 
 <!--
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 -->
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/86871718/161143118-a244ad1e-e5db-42f0-ba29-ea806aa6c0ac.gif?raw=true" width=500px />
 
 ## Find me on the web:
 
