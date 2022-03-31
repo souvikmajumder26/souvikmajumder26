@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ## 📫 Find me on the web:
 
+![Sq_blank](https://user-images.githubusercontent.com/86871718/161148821-1562d0e0-46e9-44e8-8554-e39c59d34d26.svg)
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/" target="_blank">
   <img align="left" alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
