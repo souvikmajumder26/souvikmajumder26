@@ -83,6 +83,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&theme=cobalt2" alt="souvikmajumder26" />
+![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift)
 
 ## Top Repositories (My Projects)
 
