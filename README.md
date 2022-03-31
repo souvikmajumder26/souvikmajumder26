@@ -22,12 +22,12 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <h3>Find me on the web:</h3>
 
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/">
-  <h5>LinkedIn - </h5>
+  <h4>LinkedIn - </h4>
   <img align="left" alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br>
 <a href="https://orcid.org/0000-0002-2382-7401">
-  <h5>ORCID - </h5>
+  <h4>ORCID - </h4>
   <img align="left" alt="Souvik's ORCID" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
 
