@@ -31,7 +31,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
   <img align="left" alt="Souvik's ORCID" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
 
-<br>
+<br clear=”left” />
 
 <h3>Languages and Frameworks:</h3>
 
