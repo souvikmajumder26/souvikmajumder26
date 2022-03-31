@@ -52,8 +52,16 @@ Here are some ideas to get you started:
 
 <!-- Using vector logos from https://www.vectorlogo.zone/ -->
 
-<img align="left" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
-                                    
+<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
+<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
+<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" />
+<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" />
+<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" />
+<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" />
+<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" />
+<img align="left" width="100px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" />
+
+<!--
 <img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -66,6 +74,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+-->
 
 <br />
 <br />
