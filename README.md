@@ -74,7 +74,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <!-- TODO-IST:END -->
 
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&theme=jolly" alt="souvikmajumder26" />
 
