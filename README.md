@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 <!-- img.shields.io -->
 
 <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=black" alt="Python logo" title="Python" height="25" />
+&nbsp
 <img src="https://img.shields.io/badge/C++-orange?style=flat-square&logo=cplusplus&logoColor=black" alt="Python logo" title="Python" height="25" />
 
 <img width="100px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
