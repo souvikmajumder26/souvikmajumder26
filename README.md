@@ -30,7 +30,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 </a>
 
 <a href="https://leetcode.com/Souvik_Majumder/">
-  <img align="left" alt="Souvik's LeetCode" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/LeetCode_logo_white.svg" />
+  <img align="left" alt="Souvik's LeetCode" width="28px" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/LeetCode_logo_white.svg" />
 </a>
   
 <br>
