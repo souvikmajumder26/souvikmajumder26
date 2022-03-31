@@ -28,7 +28,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 **ORCID -**
 <a href="https://orcid.org/0000-0002-2382-7401">
-  <img align="left" alt="Souvik's ORCID" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
+  <img alt="Souvik's ORCID" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
 </span>
   
