@@ -51,6 +51,9 @@ Here are some ideas to get you started:
 ## 👨‍💻 Languages and Frameworks:
 
 <!-- Using vector logos from https://www.vectorlogo.zone/ -->
+<!-- img.shields.io -->
+
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 
 <img width="100px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" />
 <img width="100px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" />
