@@ -83,8 +83,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&theme=cobalt2" alt="souvikmajumder26" />
+<p>
 ![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&theme=swift)
-
+</p>
 ## Top Repositories (My Projects)
 
 <a href="https://github.com/souvikmajumder26/Any-Face-Clustering">
