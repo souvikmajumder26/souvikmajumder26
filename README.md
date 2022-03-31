@@ -21,8 +21,6 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <img align="right" alt="GIF" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/python-2.gif?raw=true" width=500px />
 
-<br>
-
 ## Find me on the web:
 
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/" target="_blank">
@@ -84,12 +82,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## GitHub Stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&theme=cobalt2" alt="souvikmajumder26" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&theme=cobalt2" alt="souvikmajumder26" />
 
 ## Top Repositories (My Projects)
 
 <a href="https://github.com/souvikmajumder26/Any-Face-Clustering">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=cobalt2" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" />
 </a>
 
 <a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost">
