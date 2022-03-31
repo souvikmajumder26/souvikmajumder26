@@ -52,7 +52,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 
 
-## This week I spent my time on:**
+## This week I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
