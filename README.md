@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently Interning as a Software Engineer
-- 🌱 I’m currently learning Data Science, Cloud(Azure, AWS), Web3
+- 🌱 I’m currently learning Data Science, Cloud (Azure, AWS), Web3
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have loved Painting since childhood so much so that I wanted to be a full-time Painter at a point of time
 <!-- - 👯 I’m looking to collaborate on ...
