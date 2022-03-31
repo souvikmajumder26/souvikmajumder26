@@ -21,6 +21,8 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <img align="right" alt="GIF" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/python-2.gif?raw=true" width=500px />
 
+<br />
+
 ## Find me on the web:
 
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/" target="_blank">
@@ -84,7 +86,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ## GitHub Stats
 
-|<a href="https://github.com/souvikmajumder26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github.com/souvikmajumder26/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true" /></a>|
+|<a href="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true" /></a>|
 | ------------- | ------------- |
 
 
