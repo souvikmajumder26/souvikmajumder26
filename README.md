@@ -56,27 +56,27 @@ Here are some ideas to get you started:
 
 <p>
   
-  <img alt="Python" src="https://img.shields.io/badge/-Python-1a73e8?style=flat-square&logo=python&logoColor=black" height="25" />
-  <img alt="C++" src="https://img.shields.io/badge/-C++-E10098?style=flat-square&logo=cplusplus&logoColor=black" height="25" />
-  <img alt="C" src="https://img.shields.io/badge/-C%20Programming-311C87?style=flat-square&logo=codio&logoColor=black" height="25" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black" height="25" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3&logoColor=black" height="25" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" height="25" />
-  <img alt="ScikitLearn" src="https://img.shields.io/badge/-ScikitLearn-007ACC?style=flat-square&logo=scikitlearn&logoColor=black" height="25" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FB542B?style=flat-square&logo=tensorflow&logoColor=black" height="25" />
-  <img alt="Keras" src="https://img.shields.io/badge/-Keras-DD0031?style=flat-square&logo=keras&logoColor=black" height="25" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=black" height="25" />
-  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-2596be?style=flat-square&logo=numpy&logoColor=black" height="25" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-430098?style=flat-square&logo=pandas&logoColor=black" height="25" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=black" height="25" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-007FFF?style=flat-square&logo=microsoftazure&logoColor=black" height="25" />
-  <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazonaws&logoColor=black" height="25" />
-  <img alt="AWSS3" src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=black" height="25" />
-  <img alt="AWSLambda" src="https://img.shields.io/badge/-AWS%20Lambda-FF6000?style=flat-square&logo=awslambda&logoColor=black" height="25" />
-  <img alt="AWSDynamoDB" src="https://img.shields.io/badge/-AWS%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=black" height="25" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black" height="25" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=git&logoColor=black" height="25" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-1a73e8?style=flat-square&logo=python&logoColor=black" height="30" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-E10098?style=flat-square&logo=cplusplus&logoColor=black" height="30" />
+  <img alt="C" src="https://img.shields.io/badge/-C%20Programming-311C87?style=flat-square&logo=codio&logoColor=black" height="30" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black" height="30" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3&logoColor=black" height="30" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" height="30" />
+  <img alt="ScikitLearn" src="https://img.shields.io/badge/-ScikitLearn-007ACC?style=flat-square&logo=scikitlearn&logoColor=black" height="30" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FB542B?style=flat-square&logo=tensorflow&logoColor=black" height="30" />
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-DD0031?style=flat-square&logo=keras&logoColor=black" height="30" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=black" height="30" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-2596be?style=flat-square&logo=numpy&logoColor=black" height="30" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-430098?style=flat-square&logo=pandas&logoColor=black" height="30" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=black" height="30" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-007FFF?style=flat-square&logo=microsoftazure&logoColor=black" height="30" />
+  <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazonaws&logoColor=black" height="30" />
+  <img alt="AWSS3" src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=black" height="30" />
+  <img alt="AWSLambda" src="https://img.shields.io/badge/-AWS%20Lambda-FF6000?style=flat-square&logo=awslambda&logoColor=black" height="30" />
+  <img alt="AWSDynamoDB" src="https://img.shields.io/badge/-AWS%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=black" height="30" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black" height="30" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=git&logoColor=black" height="30" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="30" />
 
 </p>
 
