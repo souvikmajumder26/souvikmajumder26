@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 <p>
   
   <img alt="Python" src="https://img.shields.io/badge/-Python-1a73e8?style=flat-square&logo=python&logoColor=black" height="25" />
-  <img alt="C" src="https://img.shields.io/badge/-C%20Programming-311C87?style=flat-square&logo=c&logoColor=black" height="25" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-E10098?style=flat-square&logo=cplusplus&logoColor=black" height="25" />
+  <img alt="C" src="https://img.shields.io/badge/-C%20Programming-311C87?style=flat-square&logo=c&logoColor=black" height="25" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black" height="25" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3&logoColor=black" height="25" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" height="25" />
