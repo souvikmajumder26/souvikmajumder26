@@ -82,14 +82,13 @@ Here are some ideas to get you started:
 
 <br />
 
-<!--
-## This week I spent my time on:
+<!-- (remove this comment tag) ## This week I spent my time on: (remove this comment tag) -->
 <!--START_SECTION:waka-->
-
+<!--  (remove this comment tag)
 ```text
 Other    6 hrs 3 mins    █████████████████████████   99.79 %
 ```
-
+(remove this comment tag) -->
 <!--END_SECTION:waka-->
 
 <!--
@@ -97,7 +96,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 -->
--->
+
 
 ## GitHub Stats:
 
