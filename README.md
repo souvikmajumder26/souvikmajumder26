@@ -91,10 +91,6 @@ Here are some ideas to get you started:
 
 </p>
 
-<img align="left" src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=black" alt="Python logo" title="Python" />
-<img align="left" src="https://img.shields.io/badge/C++-purple?style=flat-square&logo=cplusplus&logoColor=black" alt="C++ logo" title="C++" />
-<img align="left" src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html&logoColor=black" alt="C++ logo" title="C++" />
-
 <br />
 
 ## This week I spent my time on:
