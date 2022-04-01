@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 <!-- Using vector logos from https://www.vectorlogo.zone/ -->
 <!-- img.shields.io -->
+<!-- https://simpleicons.org/ -->
 
 <p>
   
@@ -64,10 +65,15 @@ Here are some ideas to get you started:
   <img alt="ScikitLearn" src="https://img.shields.io/badge/-ScikitLearn-007ACC?style=flat-square&logo=scikitlearn&logoColor=black" height="25" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FB542B?style=flat-square&logo=tensorflow&logoColor=black" height="25" />
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-DD0031?style=flat-square&logo=keras&logoColor=black" height="25" />
-  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-430098?style=flat-square&logo=pandas&logoColor=black" height="25" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=black" height="25" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-2596be?style=flat-square&logo=numpy&logoColor=black" height="25" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-430098?style=flat-square&logo=pandas&logoColor=black" height="25" />
   <img alt="Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-007FFF?style=flat-square&logo=microsoftazure&logoColor=black" height="25" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=awslambda&logoColor=black" height="25" />
+  <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazonaws&logoColor=black" height="25" />
+  <img alt="AWSS3" src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=black" height="25" />
+  <img alt="AWSLambda" src="https://img.shields.io/badge/-AWS%20Lambda-FF6000?style=flat-square&logo=awslambda&logoColor=black" height="25" />
+  <img alt="AWSDynamoDB" src="https://img.shields.io/badge/-AWS%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=black" height="25" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-E34F26?style=flat-square&logo=mysql&logoColor=black" height="25" />
 
 </p>
 
