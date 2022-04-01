@@ -68,6 +68,7 @@ Here are some ideas to get you started:
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=black" height="25" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-2596be?style=flat-square&logo=numpy&logoColor=black" height="25" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-430098?style=flat-square&logo=pandas&logoColor=black" height="25" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=black" height="25" />
   <img alt="Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-007FFF?style=flat-square&logo=microsoftazure&logoColor=black" height="25" />
   <img alt="AWS" src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazonaws&logoColor=black" height="25" />
   <img alt="AWSS3" src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=black" height="25" />
@@ -75,7 +76,6 @@ Here are some ideas to get you started:
   <img alt="AWSDynamoDB" src="https://img.shields.io/badge/-AWS%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=black" height="25" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black" height="25" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=git&logoColor=black" height="25" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=black" height="25" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25" />
 
 </p>
