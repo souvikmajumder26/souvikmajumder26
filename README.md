@@ -61,7 +61,14 @@ Here are some ideas to get you started:
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black" height="25" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3&logoColor=black" height="25" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" height="25" />
+  <img alt="ScikitLearn" src="https://img.shields.io/badge/-ScikitLearn-007ACC?style=flat-square&logo=scikitlearn&logoColor=black" height="25" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FB542B?style=flat-square&logo=tensorflow&logoColor=black" height="25" />
+  <img alt="Keras" src="https://img.shields.io/badge/-Keras-DD0031?style=flat-square&logo=keras&logoColor=black" height="25" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-430098?style=flat-square&logo=pandas&logoColor=black" height="25" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-2596be?style=flat-square&logo=numpy&logoColor=black" height="25" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Microsoft%20Azure-007FFF?style=flat-square&logo=microsoftazure&logoColor=black" height="25" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=awslambda&logoColor=black" height="25" />
+  
 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=black" height="25" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" height="25" /> 
