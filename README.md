@@ -74,6 +74,9 @@ Here are some ideas to get you started:
   <img alt="AWSLambda" src="https://img.shields.io/badge/-AWS%20Lambda-FF6000?style=flat-square&logo=awslambda&logoColor=black" height="25" />
   <img alt="AWSDynamoDB" src="https://img.shields.io/badge/-AWS%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=black" height="25" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black" height="25" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=git&logoColor=black" height="25" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=black" height="25" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25" />
 
 </p>
 
