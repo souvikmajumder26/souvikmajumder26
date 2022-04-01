@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   
   <img alt="Python" src="https://img.shields.io/badge/-Python-1a73e8?style=flat-square&logo=python&logoColor=black" height="25" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-E10098?style=flat-square&logo=cplusplus&logoColor=black" height="25" />
-  <img alt="C" src="https://img.shields.io/badge/-C%20Programming-311C87?style=flat-square&logo=c&logoColor=black" height="25" />
+  <img alt="C" src="https://img.shields.io/badge/-C%20Programming-311C87?style=flat-square&logo=codio&logoColor=black" height="25" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=black" height="25" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=css3&logoColor=black" height="25" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=black" height="25" />
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   <img alt="AWSS3" src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=black" height="25" />
   <img alt="AWSLambda" src="https://img.shields.io/badge/-AWS%20Lambda-FF6000?style=flat-square&logo=awslambda&logoColor=black" height="25" />
   <img alt="AWSDynamoDB" src="https://img.shields.io/badge/-AWS%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=black" height="25" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-E34F26?style=flat-square&logo=mysql&logoColor=black" height="25" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black" height="25" />
 
 </p>
 
