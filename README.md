@@ -84,11 +84,11 @@ Here are some ideas to get you started:
 
 <!-- (remove this comment tag) ## This week I spent my time on: (remove this comment tag) -->
 <!--START_SECTION:waka-->
-
+<!-- (remove this comment tag)
 ```text
 Other    6 hrs 3 mins    █████████████████████████   99.79 %
 ```
-
+(remove this comment tag) -->
 <!--END_SECTION:waka-->
 
 <!--
