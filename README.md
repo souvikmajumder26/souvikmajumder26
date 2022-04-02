@@ -3,7 +3,7 @@
 A passionate Software Engineer from India. My passion for software lies in leveraging Digital Technologies like Data Science, Artificial Intelligence, Cloud Computing to make radical ideas come true creating value for business and society. I take great care in the things I build.
 
 <!--
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 -->
 
 <!--
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 
 <img align="right" width=500px src="https://user-images.githubusercontent.com/86871718/161144780-7411dd95-2bed-4519-a663-1959dc926f89.gif" />
 
+
 ## 📫 Find me on the web:
 
 <img align="left" width="1px" src="https://user-images.githubusercontent.com/86871718/161148942-53861b51-a84c-4b93-990a-f75c2a3d5948.svg" />
@@ -41,6 +42,7 @@ Here are some ideas to get you started:
 
 <br />
 <br />
+
 
 ## 👨‍💻 Languages and Frameworks:
 
@@ -75,21 +77,6 @@ Here are some ideas to get you started:
 </p>
 
 <br />
-
-<!-- (remove this comment tag) ## This week I spent my time on: (remove this comment tag) -->
-<!--START_SECTION:waka-->
-
-```text
-Other    6 hrs 3 mins    █████████████████████████   99.79 %
-```
-
-<!--END_SECTION:waka-->
-
-<!--
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
--->
 
 
 ## GitHub Stats:
