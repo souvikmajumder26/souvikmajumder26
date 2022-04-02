@@ -35,12 +35,6 @@ Here are some ideas to get you started:
 
 <img align="left" width="1px" src="https://user-images.githubusercontent.com/86871718/161148942-53861b51-a84c-4b93-990a-f75c2a3d5948.svg" />
 
-<a href="https://leetcode.com/Souvik_Majumder/" target="_blank">
-  <img align="left" alt="Souvik's LeetCode" width="24px" src="https://github.com/souvikmajumder26/souvikmajumder26/blob/main/LeetCode_logo_white.svg" />
-</a>
-
-<img align="left" width="1px" src="https://user-images.githubusercontent.com/86871718/161148942-53861b51-a84c-4b93-990a-f75c2a3d5948.svg" />
-
 <a href="https://orcid.org/0000-0002-2382-7401" target="_blank">
   <img align="left" alt="Souvik's ORCID" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
