@@ -92,8 +92,14 @@ Here are some ideas to get you started:
 ## Top Repositories:
 
 <p align=center><b>Data Science Projects and Research Publications</b></p>
+<p align=center>
+<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" /></a>
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" /></a>
+</p>
 
-|<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" /></a>|
-| ------------- | ------------- |
-
+<p align=center><b>Web Development Projects</b></p>
+<p align=center>
+<a href="https://github.com/souvikmajumder26/Arrow-India"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Arrow-India&theme=swift" /></a>
+</p>
 <br />
