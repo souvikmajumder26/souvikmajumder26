@@ -92,11 +92,13 @@ Here are some ideas to get you started:
 ## Top Repositories:
 
 <p align=center><b>Data Science Projects and Research Publications</b></p>
-<p align=center>
+<span align=center>
 <a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" /></a>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+</span>
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<span align=center>
 <a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" /></a>
-</p>
+</span>
 
 <p align=center><b>Web Development Projects</b></p>
 <p align=center>
