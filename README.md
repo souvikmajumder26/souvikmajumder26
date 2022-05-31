@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 
 <p align=center><b>Data Science, Machine Learning and Deep Learning Projects & Research Publications</b></p>
 
-|<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" /></a>|
+|<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=gotham" /></a>|<a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" /></a>|
 | ------------- | ------------- |
 <br />
 
