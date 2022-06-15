@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="30px">  Hi there, I'm Souvik Majumder... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="30px">
+# <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="40">  Hi there, I'm Souvik Majumder... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="40">
 
 A passionate Software Engineer from India. My passion for software lies in leveraging Digital Technologies like Data Science, Artificial Intelligence, Cloud Computing to make radical ideas come true creating value for business and society. I take great care in the things I build.
 
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently Interning as a Software Engineer
-- 🌱 I’m currently learning Data Science, Cloud (Azure, AWS), MLOps, Web3
+- 🌱 I’m currently learning Data Science, Cloud (Azure, AWS), MLOps
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have loved Painting since childhood so much so that I wanted to be a full-time Painter at a point of time 😅
 <!-- - 👯 I’m looking to collaborate on ...
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ----
 
-<img align="right" width=500px src="https://user-images.githubusercontent.com/86871718/161144780-7411dd95-2bed-4519-a663-1959dc926f89.gif" />
+<img align="right" width=500 src="https://user-images.githubusercontent.com/86871718/161144780-7411dd95-2bed-4519-a663-1959dc926f89.gif" />
 
 
 ## 📫 Find me on the web:
