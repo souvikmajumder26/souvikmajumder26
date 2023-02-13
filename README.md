@@ -95,11 +95,9 @@ Here are some ideas to get you started:
 
 |<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/ECG-Ensemble-XGBoost"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=ECG-Ensemble-XGBoost&theme=swift" /></a>|
 | ------------- | ------------- |
-<br />
+|<a href="https://github.com/souvikmajumder26/Neural-Network-from-Scratch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Neural-Network-from-Scratch&theme=swift" /></a>|
 
-<p align=center>
-<a href="https://github.com/souvikmajumder26/Neural-Network-from-Scratch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Neural-Network-from-Scratch&theme=swift" /></a>
-</p>
+<br />
 
 <p align=center><b>Experimental Web Development Projects</b></p>
 <p align=center>
