@@ -97,6 +97,10 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 <br />
 
+<p align=center>
+<a href="https://github.com/souvikmajumder26/Neural-Network-from-Scratch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Neural-Network-from-Scratch&theme=swift" /></a>
+</p>
+
 <p align=center><b>Experimental Web Development Projects</b></p>
 <p align=center>
 <a href="https://github.com/souvikmajumder26/Arrow-India"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Arrow-India&theme=swift" /></a>
