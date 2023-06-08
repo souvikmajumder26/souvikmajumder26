@@ -12,7 +12,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a Data Scientist at Siemens
+- 🔭 I’m currently working as a Machine Learning Engineer at Siemens
 - 🌱 I’m working towards growing my skills in Data Science, Cloud (Azure, AWS), MLOps
 - 🍁 I teach Python / Data Science / AI / ML / DL 
 - ⚡ Fun fact: I have loved Art (Painting, Drawing, Sketching) since childhood so much so that I wanted to be a full-time Artist at a point of time 😅
