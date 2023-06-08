@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working as a Machine Learning Engineer at Siemens
-- 🌱 I’m working towards growing my skills in Data Science, Cloud (Azure, AWS), MLOps
+- 🌱 I’m working towards growing my skills in Data Science, Computer Vision, Time Series Forecasting, Natural Language Processing, Cloud (Azure, AWS), MLOps
 - 🍁 I teach Python / Data Science / AI / ML / DL 
 - ⚡ Fun fact: I have loved Art (Painting, Drawing, Sketching) since childhood so much so that I wanted to be a full-time Artist at a point of time 😅
 <!-- - 👯 I’m looking to collaborate on ...
