@@ -1,6 +1,10 @@
 # <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="35">  Hi there, I'm Souvik Majumder... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="35">
 
+<!--
 An innate problem solver evolved as a passionate engineer from India. My passion for software lies in leveraging Digital Technologies like Data Science, Artificial Intelligence, Cloud Computing to make radical ideas come true creating value for business and society. I take great care in the things I build.
+-->
+
+A passionate problem solver and dedicated engineer hailing from India, I thrive on unraveling intricate challenges. My software journey revolves around harnessing the power of digital technologies such as Data Science, Artificial Intelligence, and Cloud Computing, transforming audacious ideas into reality while generating substantial value for businesses and society. I take great care in the things I build.
 
 <!--
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
@@ -12,10 +16,10 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a Machine Learning Engineer at Siemens
-- 🌱 I’m working towards growing my skills in Data Science, Computer Vision, Time Series Forecasting, Natural Language Processing, Cloud (Azure, AWS), MLOps
-- 🍁 I teach Python / Data Science / AI / ML / DL 
-- ⚡ Fun fact: I have loved Art (Painting, Drawing, Sketching) since childhood so much so that I wanted to be a full-time Artist at a point of time 😅
+- 🔭 Currently, I am entrusted as a Machine Learning Engineer at Siemens, where I contribute to cutting-edge projects.
+- 🌱 My professional growth revolves around expanding my expertise in various domains, including Data Science, Computer Vision, Time Series Forecasting, Natural Language Processing, and Cloud technologies like Azure and AWS. Additionally, I am keen on learning MLOps practices to ensure efficient and scalable ML deployments.
+- 🍁 Sharing knowledge is a passion of mine, and I actively engage in teaching Python, Data Science, AI, ML, and DL to empower others in their learning journey.
+- ⚡ Fun fact: Since childhood, I have nurtured a profound love for the arts, including painting, drawing, and sketching. At one point, I even aspired to become a full-time artist! 😅
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
