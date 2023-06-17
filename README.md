@@ -4,7 +4,7 @@
 An innate problem solver evolved as a passionate engineer from India. My passion for software lies in leveraging Digital Technologies like Data Science, Artificial Intelligence, Cloud Computing to make radical ideas come true creating value for business and society. I take great care in the things I build.
 -->
 
-A passionate problem solver and dedicated engineer hailing from India, I thrive on unraveling intricate challenges. My software journey revolves around harnessing the power of digital technologies such as Data Science, Artificial Intelligence, and Cloud Computing, transforming audacious ideas into reality while generating substantial value for businesses and society. I take great care in the things I build.
+A passionate problem solver and dedicated engineer hailing from India, I thrive on unraveling intricate challenges. My software journey revolves around harnessing the power of digital technologies such as Data Science, Artificial Intelligence, and Cloud Computing, transforming bold ideas into reality while generating substantial value for businesses and society. I take great care in the things I build.
 
 <!--
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
