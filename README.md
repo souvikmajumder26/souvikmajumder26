@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 ----
 
-<img align="right" width=500 src="https://user-images.githubusercontent.com/86871718/161144780-7411dd95-2bed-4519-a663-1959dc926f89.gif" />
+
+<img align="right" width=500 src="python-2.gif" style="border-radius: 50%;"/>
 
 
 ## 📫 Find me on the web:
