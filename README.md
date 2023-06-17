@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
 
-<a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/" target="_blank">
+<a href="https://www.linkedin.com/in/souvikmajumder26/" target="_blank">
   <img align="left" alt="Souvik's LinkedIn" height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 
