@@ -32,36 +32,37 @@ Here are some ideas to get you started:
 
 ## 📫 Find me on the web:
 
-<img align="left" width="1px" src="https://user-images.githubusercontent.com/86871718/161148942-53861b51-a84c-4b93-990a-f75c2a3d5948.svg" />
+<img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+
 
 <a href="https://www.linkedin.com/in/souvik-majumder-51b7881ba/" target="_blank">
-  <img align="left" alt="Souvik's LinkedIn" width="28px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Souvik's LinkedIn" height="30" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />
 </a>
 
-<img align="left" width="1px" src="https://user-images.githubusercontent.com/86871718/161148942-53861b51-a84c-4b93-990a-f75c2a3d5948.svg" />
+<img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
 <a href="https://leetcode.com/Souvik_Majumder" target="_blank">
-  <img align="left" alt="Souvik's LeetCode" width="24px" src="https://user-images.githubusercontent.com/86871718/161448571-af1d7626-22f8-4b37-8501-0e2ffb7ff595.svg" />
+  <img align="left" alt="Souvik's LeetCode" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Leetcode.svg" />
 </a>
 
-<img align="left" width="1px" src="https://user-images.githubusercontent.com/86871718/161148942-53861b51-a84c-4b93-990a-f75c2a3d5948.svg" />
+<img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
 <a href="https://orcid.org/0000-0002-2382-7401" target="_blank">
-  <img align="left" alt="Souvik's ORCID" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
+  <img align="left" alt="Souvik's ORCID" height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
 
 <br />
 <br />
 
 
-## 👨‍💻 Languages and Frameworks:
+## 👨‍💻 Technologies & Tools:
 
 <!-- Using vector logos from https://www.vectorlogo.zone/ -->
 <!-- img.shields.io -->
 <!-- https://simpleicons.org/ -->
 
 <p>
-  
+  <!--
   <img alt="Python" src="https://img.shields.io/badge/-Python-1a73e8?style=flat-square&logo=python&logoColor=black" height="25" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-E10098?style=flat-square&logo=cplusplus&logoColor=black" height="25" />
   <img alt="C" src="https://img.shields.io/badge/-C%20Programming-311C87?style=flat-square&logo=codio&logoColor=black" height="25" />
@@ -83,17 +84,50 @@ Here are some ideas to get you started:
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black" height="25" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=git&logoColor=black" height="25" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25" />
+  -->
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="conda" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" alt="keras" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" alt="scikit-learn" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" alt="opencv" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" height="30"/>
+  <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
 </p>
 
 
-## GitHub Stats:
+## 🤖 GitHub Stats:
 
 |<a href="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true" /></a>|
 | ------------- | ------------- |
 
 
-## Top Repositories:
+## 🎯 Top Repositories:
 
 <p align=center><b>Data Science, Machine Learning and Deep Learning Projects & Research Publications</b></p>
 
