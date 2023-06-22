@@ -100,7 +100,7 @@ Here are some ideas to get you started:
   <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="pytorch" height="40"/>
   <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-  <img src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" alt="scikit-learn" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="40"/>
   <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" height="40"/>
   <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
