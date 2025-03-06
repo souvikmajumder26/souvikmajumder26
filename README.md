@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img align="right" width=400 src="python-2.gif"/>
 
 
-## 📫 Find me on the web:
+### 📫 Find me on the web:
 
 <img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 <br />
 
 
-## 👨‍💻 Technologies & Tools:
+### 👨‍💻 Technologies & Tools:
 
 <!-- Using vector logos from https://www.vectorlogo.zone/ -->
 <!-- img.shields.io -->
