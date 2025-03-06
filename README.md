@@ -1,7 +1,7 @@
 # <img src="https://user-images.githubusercontent.com/86871718/161140687-a001991c-2804-4a42-9ecb-2a5bc96ddaf5.gif" width="35">  Hi there, I'm Souvik Majumder... nice to see you! <img src="https://user-images.githubusercontent.com/86871718/161139862-048ac7a9-9731-4b2e-abba-165538b42917.gif" width="35">
 
 <!--
-An innate problem solver evolved as a passionate engineer from India. My passion for software lies in leveraging Digital Technologies like Data Science, Artificial Intelligence, Cloud Computing to make radical ideas come true creating value for business and society. I take great care in the things I build.
+An innate problem solver evolved as a passionate engineer. My passion for software lies in leveraging Digital Technologies like Data Science, Artificial Intelligence, Cloud Computing to make radical ideas come true creating value for business and society. I take great care in the things I build.
 -->
 
 A passionate problem solver and dedicated engineer hailing from India, I thrive on unraveling intricate challenges. My software journey revolves around harnessing the power of digital technologies such as Data Science, Artificial Intelligence, and Cloud Computing, transforming bold ideas into reality while generating substantial value for businesses and society. I take great care in the things I build.
@@ -16,10 +16,10 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 Here are some ideas to get you started:
 -->
 
-- 🔭 Currently, I am working as a Machine Learning Engineer at Siemens, where I contribute to innovative projects.
-- 🌱 I am constantly expanding my skills in areas such as Data Science, Computer Vision, Time Series Forecasting, Natural Language Processing, Cloud platforms (Azure, AWS), and MLOps. I am passionate about staying at the forefront of technological advancements.
+- 🔭 Currently, I am working as a Senior Machine Learning Engineer at Zensar Technologies, where I contribute to innovative projects with a focus on building efficient solutions be it using traditional Deep Learning techniques or new age GenAI.
+- 🌱 I am constantly expanding my skills with enhanced focus in areas such as Computer Vision, Natural Language Processing and GenAI. Also updating my skills in Cloud platforms (Azure, AWS), and MLOps. I am passionate about staying at the forefront of technological advancements.
 - 🍁 In addition to my professional work, I enjoy teaching Python, Data Science, Artificial Intelligence, Machine Learning, and Deep Learning.
-- ⚡ Fun fact: Since childhood, I have had a deep love for the arts, particularly painting, drawing, and sketching. At one point, I even aspired to become a full-time artist! 😅
+- ⚡ Fun fact: Since childhood, I have had a deep love for the arts, particularly painting, drawing, and sketching. At one point, I even aspired to become a full-time artist! 😅 Now, the creative mind assists the analytical side while building innovative and useful solutions.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
