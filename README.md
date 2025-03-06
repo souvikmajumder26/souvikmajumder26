@@ -52,8 +52,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Souvik's ORCID" height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />
 </a>
 
-<br />
-<br />
+<!--<br />
+<br />-->
 
 
 ## 👨‍💻 Technologies & Tools:
