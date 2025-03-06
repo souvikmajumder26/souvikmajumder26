@@ -114,7 +114,7 @@ Here are some ideas to get you started:
   <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" height="40"/>
   <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="40"/>
   <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" height="40"/>
   <img width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
