@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
 
 <a href="https://leetcode.com/Souvik_Majumder" target="_blank">
-  <img align="left" alt="Souvik's LeetCode" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Leetcode.svg" />
+  <img align="left" alt="Souvik's LeetCode" height="30" src="leetcode.png" />
 </a>
 
 <img align="left" width="1px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" />
