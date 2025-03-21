@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 
 ## 🤖 GitHub Stats:
 
-|<a href="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true" /></a>|
+|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true" /></a>|
 | ------------- | ------------- |
 
 
@@ -135,9 +135,9 @@ Here are some ideas to get you started:
 
 <p align=center><b>Data Science, Machine Learning and Deep Learning Projects & Research Publications</b></p>
 
-|<a href="https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Multi-Agent-Medical-Assistant&theme=github" /></a>|<a href="https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Land-Cover-Semantic-Segmentation-PyTorch&theme=swift" /></a>|
+|<a href="https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Multi-Agent-Medical-Assistant&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Land-Cover-Semantic-Segmentation-PyTorch&theme=swift" /></a>|
 | ------------- | ------------- |
-|<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Neural-Network-from-Scratch"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Neural-Network-from-Scratch&theme=swift" /></a>|
+|<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Neural-Network-from-Scratch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Neural-Network-from-Scratch&theme=swift" /></a>|
 
 <br />
 
