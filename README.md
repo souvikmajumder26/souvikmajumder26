@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ----
 
 
-<img align="right" width=400 src="python-2-rounded.gif"/>
+<img align="right" width=400 src="python-2.gif"/>
 
 
 ### 📫 <ins>Find me on the web:</ins>
