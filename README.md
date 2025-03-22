@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 
 ## 🤖 GitHub Stats:
 
-|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true" /></a>|
+|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api?username=souvikmajumder26&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt="Souvik's github stats" /></a>|<a href="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/top-langs/?username=souvikmajumder26&layout=compact&theme=swift&hide_border=true" /></a>|
 | ------------- | ------------- |
 
 
@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 
 <p align=center><b>Web Development Projects for Fun</b></p>
 
-|<a href="https://github.com/souvikmajumder26/Art-Page"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Art-Page&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Arrow-India"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=souvikmajumder26&repo=Arrow-India&theme=swift" /></a>|
+|<a href="https://github.com/souvikmajumder26/Art-Page"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Art-Page&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Arrow-India"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Arrow-India&theme=swift" /></a>|
 | ------------- | ------------- |
 
 <br />
