@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 
 <p align=center><b>Data Science, Machine Learning and Deep Learning Projects & Research Publications</b></p>
 
-|<a href="https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Multi-Agent-Medical-Assistant&show_icons=true&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Land-Cover-Semantic-Segmentation-PyTorch&show_icons=true&theme=swift" /></a>|
+|<a href="https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Multi-Agent-Medical-Assistant&show_icons=false&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Land-Cover-Semantic-Segmentation-PyTorch&show_icons=true&theme=swift" /></a>|
 | ------------- | ------------- |
 |<a href="https://github.com/souvikmajumder26/Any-Face-Clustering"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Any-Face-Clustering&show_icons=true&theme=swift" /></a>|<a href="https://github.com/souvikmajumder26/Neural-Network-from-Scratch"><img align="center" src="https://github-readme-stats-mu-ochre-71.vercel.app/api/pin/?username=souvikmajumder26&repo=Neural-Network-from-Scratch&show_icons=true&theme=swift" /></a>|
 
