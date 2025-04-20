@@ -16,7 +16,7 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 Here are some ideas to get you started:
 -->
 
-- 🔭 Working as a Sr. Machine Learning Engineer at Zensar Technologies, where I contribute to innovative projects with a focus on building efficient solutions be it using traditional Deep Learning techniques or new age GenAI.
+- 🔭 A Sr. Machine Learning Engineer contributing to innovative projects with a focus on building efficient solutions be it using traditional Deep Learning techniques or new age GenAI.
 - 🌱 I am constantly expanding my skills with enhanced focus in areas such as Computer Vision, Natural Language Processing and GenAI. Also updating my skills in Cloud platforms (Azure, AWS), and MLOps. I am passionate about staying at the forefront of technological advancements.
 - 🍁 In addition to my professional work, I enjoy teaching Python, Data Science, Artificial Intelligence, Machine Learning, and Deep Learning.
 - ⚡ Fun fact: Since childhood, I have had a deep love for arts, particularly painting, drawing, and sketching. At one point, I even aspired to become a full-time artist! 😅 Now, the creative mind assists the analytical side to build innovative and useful solutions.
